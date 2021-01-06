@@ -47,13 +47,16 @@ p{
 .hilight2{
     color: tomato;
 }
+.hilight3{
+    color: rgb(216, 29, 154);
+}
 .half{
     width: 45%;;
     float: left;
     padding-left: 2%;
 }
 .half11{
-    padding-top: 200px;
+    padding-top: 180px;
 }
 .half p{
     margin-bottom: 40px;
@@ -64,7 +67,7 @@ p{
 
 .first-section{
     height: 500px;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
 }
 .second-section{
     height: 500px;
@@ -85,6 +88,9 @@ p{
 .third-section{
     height: 400px;
     margin-bottom: 20px;
+}
+.fourth-section{
+    height: 450px;
 }
 .project{
     width: 28%;
@@ -151,4 +157,35 @@ p{
 footer{
     text-align: center;
     font-size: 12px;
+}
+.connect{
+    width: 36%;
+    height: 20%;
+    margin: auto;
+}
+h5{
+    font-size: 25px;
+    color: rgb(102, 96, 96);
+    font-family: 'Bebas Neue';
+    text-align: center;
+    margin: 0px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+h4{
+    font-size: 30px;
+    color: rgb(212, 81, 81);
+    text-align: center;
+    margin: 0px;
+    margin-bottom: 20px;
+
+}
+.icon-size{
+    width: 35px;
+    height: 35px;
+    padding-left: 10px;
+}
+.self-icon{
+    width: 40%;
+    margin: auto;
 }

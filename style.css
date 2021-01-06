@@ -1,0 +1,126 @@
+body{
+    font-family: sans-serif, Tahoma, 'Bebas Neue', cursive, Verdana, Geneva;
+    margin: 0px;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+.navigation{
+    height: 100px;
+    float: right;
+}
+.navigation ul li{
+    list-style-type: none;
+    float: left;
+    padding: 10px 60px 10px 0px;
+    
+}
+.navigation ul li a{
+text-decoration: none;
+color: rgb(65, 64, 64);
+}
+h1{
+    font-size: 65px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue';
+    margin: 0px;
+    letter-spacing: 2px;
+}
+h2{
+    font-family: 'Bebas Neue';
+    color: rgb(54, 59, 102); 
+    font-size: 40px;
+
+}
+h3{
+    color: rgb(58, 56, 56);
+    font-size: 20px;
+}
+p{
+    color: dimgray;
+}
+.hilight1{
+    color: rgb(158, 26, 158);
+}
+.hilight2{
+    color: tomato;
+}
+.half{
+    width: 45%;;
+    float: left;
+    padding-left: 2%;
+}
+.half11{
+    padding-top: 200px;
+}
+.half p{
+    margin-bottom: 40px;
+}
+.half img{
+    width: 90%;
+}
+
+section{
+    height: 500px;
+    margin-bottom: 80px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 15px 25px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
+    font-family: tahoma;
+}
+.third-section h2{
+    text-align: center;
+}
+.project{
+    width: 28%;
+    float: left;
+    padding: 1%;
+    margin-left: 3%;
+    background-color: rgb(245, 250, 245);
+    border-radius: 8px;
+}
+.project img{
+    width: 90%;
+    margin: 0% 5%;
+}
+.down-box{
+    margin: auto;
+    background-image: url("images/box.png"); 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 70%; 
+    border-radius: 20px;  
+}
+.box-half{
+    width: 40%;
+    height: 180px;
+    padding-left: 5%;
+    float: left;
+}
+.down-box h2{
+    margin-top: 20%;
+    color: white;
+    font-weight: 500;
+    font-size: 60px;
+}
+.box-btn{
+    display: block;
+    width: 25%;
+    text-align: center;
+    margin-top: 20%;
+    float: right;
+    
+}
+footer{
+    text-align: center;
+    font-size: 12px;
+}

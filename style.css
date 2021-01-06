@@ -100,11 +100,11 @@ p{
 }
 .services{
     width: 20%;
-    min-height: 60%;
+    height: 60%;
     background-color: rgb(245, 250, 245);
     float: left;
     padding: 15px 5px;
-    margin: 0px 20px;
+    margin-left: 3%;
     border-radius: 8px; 
 }
 .services p{
@@ -115,6 +115,7 @@ p{
 }
 .services img{
     width: 60%;
+    height: 40%;
     margin: auto;
     margin-left:20%;
 }
